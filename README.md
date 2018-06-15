@@ -11,7 +11,7 @@ The paper is available [here](https://christian-rossow.de/publications/memscrimp
   author    = {Brengel, Michael and Rossow, Christian},
   title     = {{\textsc{MemScrimper}: Time- and Space-Efficient Storage of Malware Sandbox Memory Dumps}},
   booktitle = {Proceedings of the Conference on Detection of Intrusions and Malware, and Vulnerability Assessment (DIMVA)},
-  year      = {2018},
+  year      = {2018}
 }
 ```
 
